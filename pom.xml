@@ -110,7 +110,7 @@
             </maven-surefire-plugin.version>
             <jupiter.version>5.2.0</jupiter.version>
         <java.version>1.8</java.version>
-            <tomcat.version>9.0.11</tomcat.version>
+            <tomcat.version>10.0.4</tomcat.version>
             <project.build.sourceEncoding>UTF-8
             </project.build.sourceEncoding>
             <maven.compiler.source>1.8</maven.compiler.source>
